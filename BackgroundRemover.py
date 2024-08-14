@@ -1,7 +1,7 @@
 from rembg import remove
 
-input_path="animal2.jpg"
-output_path="output2.png"
+input_path="animal3.jpg"
+output_path="output3.png"
 
 with open(input_path,'rb') as i:
     with open(output_path, 'wb') as o:
